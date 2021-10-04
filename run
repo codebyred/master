@@ -1,0 +1,3 @@
+#!/bin/bash
+gcc try.c -o try
+./try
